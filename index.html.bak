@@ -15,7 +15,7 @@
   <div id="main">
     <form>
       <div class="content">
-        <h1>What would you like to learn?</h1>
+        <h1>What Would you like to learn?</h1>
         <div>
           <input type="checkbox" name="Website" id="Website">
           <label for="app">Website Development</label>
